@@ -99,4 +99,3 @@ int main(){
     return 0;
 	
 }
- //memory managemnet ,multisource compllations using header files for c++, threads 
